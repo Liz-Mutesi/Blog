@@ -5,3 +5,16 @@
 .card {
     margin-top: 20px;
 }
+image{
+    image-rendering: auto;
+    image-rendering: crisp-edges;
+    image-rendering: pixelated;
+}
+h5{
+    color: darkgreen;
+    font-size:x-large;
+
+}
+p{
+    color: black;
+}
